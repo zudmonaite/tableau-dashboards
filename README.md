@@ -42,6 +42,11 @@ The project simulates a real-world business scenario in which different stakehol
 ---
 ## 🧳 Data Source
 
+**AdventureWorks 2005** demo database provided by Microsoft.
+
+You can download the dataset here:  
+[Microsoft Learn AdventureWorks Samples](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17)
+
 ---
 
 ## ⭐SQL Analysis Workbook
