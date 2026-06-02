@@ -66,6 +66,128 @@ In addition, a separate dataset including employee, tax, province, shipping, cos
 
 ## ⭐Dashboard
 
+### 📊 Tableau Sales Analytics Dashboard
+
+This Tableau dashboard is an interactive business intelligence tool designed to analyze sales performance across multiple dimensions, including time, geography, product categories, and sales channels.
+
+The goal of this project is to transform raw sales data into actionable business insights that support both strategic (executive-level) and operational (department-level) decision-making.
+
+---
+
+### 🎛️ Dashboard Features
+
+**⏱️ Dynamic Time Analysis**
+The dashboard includes a flexible time control panel allowing users to analyze data at different aggregation levels:
+- Yearly
+- Quarterly
+- Monthly
+
+Users can also:
+- Drill down into specific months or quarters
+- Compare performance across different time periods, such as:
+  - Same period in previous year
+  - Previous month or quarter within the same year
+
+---
+
+### 🧭 Navigation
+
+The dashboard is divided into multiple sections accessible via navigation tabs, enabling users to switch between different analytical perspectives.
+
+---
+
+### 📈 Main Dashboard (KPI Overview)
+
+The main view provides high-level business KPIs:
+- Total Sales
+- Total Orders
+- Average Sales Value
+
+Each KPI can be explored individually with interactive filtering.
+
+**Key analysis dimensions include:**
+- Sales distribution by country
+- Customer purchase reasons
+- Online vs offline sales performance
+- Product category performance:
+  - Bikes
+  - Components
+  - Accessories
+  - Clothing
+
+Each visualization includes tooltips and contextual insights to support interpretation and decision-making.
+
+---
+
+### 📊 Category-Level Analysis
+
+This section enables deeper exploration by product category.
+
+Users can:
+- Select a specific KPI (Sales, Orders, Average Sales)
+- Analyze performance by category and sub-category
+
+**Available breakdowns:**
+- Sales distribution by country
+- Customer purchase behavior (reason for purchase)
+- Online vs offline sales distribution
+- KPI performance by sub-category
+- Price analysis across sub-categories
+
+This view supports product-level optimization and category performance evaluation.
+
+---
+
+### 🌍 Regional Analysis
+
+The regional analysis section focuses on geographic performance differences.
+
+**Key insights include:**
+- Price comparisons across regions and product categories
+- Country-level distribution of top-selling products
+- Purchase reason analysis by region
+- Shipping cost analysis
+- Tax impact analysis
+- Identification of top-performing sales managers
+- Interactive map visualization of store distribution by country and region
+
+This section helps identify regional performance drivers and operational differences across markets.
+
+---
+
+### 🛒 Online vs Offline Sales Analysis
+
+This section focuses on sales channel performance.
+
+Users can:
+- Filter by product category
+- Analyze KPI performance (Sales, Orders, Average Sales)
+- Compare online vs offline revenue
+- Evaluate pricing differences between channels
+
+This analysis helps identify customer behavior differences and channel-specific performance patterns.
+
+---
+
+### 💡 Design Principle
+
+The dashboard is designed to support both:
+
+- **Executive-level analysis**: High-level KPIs, trends, and strategic insights  
+- **Operational analysis**: Detailed breakdowns by category, region, and sales channel  
+
+It enables seamless transition from overview insights to deep analytical exploration, supporting data-driven decision-making across the organization.
+
+---
+
+### 🔗 Project Purpose
+
+This project demonstrates skills in:
+- Tableau dashboard design and development
+- Interactive data visualization
+- KPI tracking and business performance analysis
+- Multi-dimensional sales analysis
+- Data storytelling for different stakeholder groups
 ---
 
 ## ⭐Presentations
