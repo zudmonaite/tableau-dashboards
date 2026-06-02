@@ -51,6 +51,17 @@ You can download the dataset here:
 
 ## ⭐SQL Analysis Workbook
 
+In the initial stage of the analysis, core datasets were extracted to support key business metrics such as total sales, total orders, and average sales. This was achieved using SQL techniques including JOINs, subqueries, and CASE statements.
+
+Due to Tableau’s data limitations when connected via Google Sheets, the dataset was structured and extracted in separate categories to ensure efficient performance and flexibility in analysis. These datasets were then combined and used in Tableau for visualization and reporting.
+
+The analysis focused on key business dimensions such as sales performance by country, purchase reasons, online vs offline sales distribution, and product sub-categories. These insights were later visualized in an interactive Tableau dashboard.
+
+In addition, a separate dataset including employee, tax, province, shipping, cost, and stock information was extracted to support regional-level analysis. This enabled a deeper investigation into sales differences across regions and helped identify potential drivers behind higher or lower sales performance in specific areas.
+
+- Google Sheets document containing all SQL queries and query results: [View here](https://docs.google.com/spreadsheets/d/16rs60-3v7XEebjf_jeqwWKEqtv1NwFJD158DcAbvukM/edit?gid=1177102098#gid=1177102098)
+- All SQL queries are also stored in the GitHub repository: [GitHub folder](https://github.com/zudmonaite/tableau-dashboards/tree/main/queries)
+
 ---
 
 ## ⭐Dashboard
