@@ -49,42 +49,38 @@ You can download the dataset here:
 
 ---
 
-## ⭐SQL Analysis Workbook
+## ⭐ SQL Analysis Workbook
 
-In the initial stage of the analysis, core datasets were extracted to support key business metrics such as total sales, total orders, and average sales. This was achieved using SQL techniques including JOINs, subqueries, and CASE statements.
+This section documents the data preparation and transformation process used to support business analysis in Tableau.
 
-Due to Tableau’s data limitations when connected via Google Sheets, the dataset was structured and extracted in separate categories to ensure efficient performance and flexibility in analysis. These datasets were then combined and used in Tableau for visualization and reporting.
+SQL was used to extract and structure data from the AdventureWorks database to enable analysis of sales performance, customer behavior, and regional differences.
 
-The analysis focused on key business dimensions such as sales performance by country, purchase reasons, online vs offline sales distribution, and product sub-categories. These insights were later visualized in an interactive Tableau dashboard.
-
-In addition, a separate dataset including employee, tax, province, shipping, cost, and stock information was extracted to support regional-level analysis. This enabled a deeper investigation into sales differences across regions and helped identify potential drivers behind higher or lower sales performance in specific areas.
+The final dataset supports decision-making across:
+- Revenue and sales performance analysis
+- Customer behavior and purchasing patterns
+- Operational factors such as shipping, tax, and costs
 
 - Google Sheets document containing all SQL queries and query results: [View here](https://docs.google.com/spreadsheets/d/16rs60-3v7XEebjf_jeqwWKEqtv1NwFJD158DcAbvukM/edit?gid=2017398580#gid=2017398580)
 - All SQL queries are also stored in the GitHub repository: [GitHub folder](https://github.com/zudmonaite/tableau-dashboards/tree/main/queries)
 
 ---
 
-## ⭐Dashboard
+## ⭐ Dashboard
 
-### 📊 Tableau Sales Analytics Dashboard**
+This Tableau dashboard provides an interactive sales analytics solution designed to support both strategic and operational decision-making.
 
-This Tableau dashboard is an interactive business intelligence tool designed to analyze sales performance across multiple dimensions, including time, geography, product categories, and sales channels.
+It enables users to explore sales performance across time, geography, product categories, and sales channels through dynamic filtering and drill-down capabilities.
 
-The goal of this project is to transform raw sales data into actionable business insights that support both strategic (executive-level) and operational (department-level) decision-making.
+### 🎛️ Key Features
 
-### 🎛️ Dashboard Features
-
-**⏱️ Dynamic Time Analysis**
-The dashboard includes a flexible time control panel allowing users to analyze data at different aggregation levels:
-- Yearly
-- Quarterly
-- Monthly
-
-Users can also:
-- Drill down into specific months or quarters
-- Compare performance across different time periods, such as:
-  - Same period in previous year
-  - Previous month or quarter within the same year
+- Multi-level time analysis (Year / Quarter / Month)
+- Period comparison (YoY and sequential)
+- KPI tracking (Sales, Orders, Average Sales)
+- Cross-dimensional analysis:
+  - Geography (countries, regions)
+  - Product categories & sub-categories
+  - Online vs Offline channels
+  - Customer behavior
 
 ### 🧭 Navigation
 
@@ -179,6 +175,14 @@ This project demonstrates skills in:
 
 ## ⭐Presentations
 
+This project includes two tailored presentations designed for different stakeholder groups:
+
+- **Executive Leadership Presentation (5 min)** – High-level overview focusing on KPIs, business performance, and strategic insights  
+  👉 [View Presentation](https://docs.google.com/presentation/d/1pD7ZivvoOFOaurna7f9p9Z-mdzkN7gyVDOO9zF_VEUw/edit)
+
+- **Department-Level Presentation (10 min)** – More detailed analysis with operational insights, breakdowns by segments, and actionable recommendations  
+  👉 [View Presentation](https://docs.google.com/presentation/d/1V6wV46JgPhooraprvB6okRa5oYWq3jPMIpNRW0MVsJs/edit)
+  
 ---
 
 ## 💻 Technologies
@@ -193,6 +197,26 @@ This project demonstrates skills in:
 
 ## 🔎 Usage Instructions
 
+1. Open the interactive Tableau dashboard via the provided link in the repository.
+2. Use the left-side control panel to select:
+   - Time aggregation level (Yearly, Quarterly, Monthly)
+   - Specific time period (month or quarter, depending on selection)
+   - Comparison period (e.g., previous period or same period in different year)
+3. Navigate between dashboard sections using the built-in tabs:
+   - Main KPI overview
+   - Category-level analysis
+   - Regional analysis
+   - Online vs Offline sales analysis
+4. Interact with visualizations using filters, tooltips, and KPI selectors to explore deeper insights.
+5. Review presentation slides for interpretation of key findings and business recommendations.
+
 ---
 
 ## ❔ Next Steps
+
+- Improve dashboard performance by optimizing the data model and reducing complexity
+- Introduce forecasting and trend analysis for key KPIs
+- Expand segmentation analysis (e.g., customer lifetime value and behavioral clustering)
+- Add drill-down capabilities for deeper product and regional exploration
+- Align dashboard structure more closely with specific business questions per stakeholder group
+- Automate data refresh process for near real-time analytics
