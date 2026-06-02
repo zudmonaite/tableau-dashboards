@@ -25,7 +25,7 @@ The project simulates a real-world business scenario in which different stakehol
 ---
 ## 🧱 Portfolio Structure
 
-- **SQL Analysis Workbook**: A Google Sheets document containing all SQL queries used in the project, along with documented business questions, explanations of logic, and selected query outputs for transparency and reproducibility.
+- **SQL Analysis Workbook**: A Google Sheets document containing all SQL queries used in the project and the data used for the project.
 - **Dashboard**: Link to the interactive Tableau dashboard, including a short description of its purpose and instructions on how to use it.
 - **Presentations**: Links to both presentation decks (executive-level and department-level), tailored for different business audiences.
 ---
