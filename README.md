@@ -59,7 +59,7 @@ The analysis focused on key business dimensions such as sales performance by cou
 
 In addition, a separate dataset including employee, tax, province, shipping, cost, and stock information was extracted to support regional-level analysis. This enabled a deeper investigation into sales differences across regions and helped identify potential drivers behind higher or lower sales performance in specific areas.
 
-- Google Sheets document containing all SQL queries and query results: [View here](https://docs.google.com/spreadsheets/d/16rs60-3v7XEebjf_jeqwWKEqtv1NwFJD158DcAbvukM/edit?gid=1177102098#gid=1177102098)
+- Google Sheets document containing all SQL queries and query results: [View here](https://docs.google.com/spreadsheets/d/16rs60-3v7XEebjf_jeqwWKEqtv1NwFJD158DcAbvukM/edit?gid=2017398580#gid=2017398580)
 - All SQL queries are also stored in the GitHub repository: [GitHub folder](https://github.com/zudmonaite/tableau-dashboards/tree/main/queries)
 
 ---
