@@ -66,7 +66,7 @@ In addition, a separate dataset including employee, tax, province, shipping, cos
 
 ## ⭐Dashboard
 
-###📊 Tableau Sales Analytics Dashboard**
+### 📊 Tableau Sales Analytics Dashboard**
 
 This Tableau dashboard is an interactive business intelligence tool designed to analyze sales performance across multiple dimensions, including time, geography, product categories, and sales channels.
 
