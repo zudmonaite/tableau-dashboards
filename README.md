@@ -66,13 +66,11 @@ In addition, a separate dataset including employee, tax, province, shipping, cos
 
 ## ⭐Dashboard
 
-### 📊 Tableau Sales Analytics Dashboard
+###📊 Tableau Sales Analytics Dashboard**
 
 This Tableau dashboard is an interactive business intelligence tool designed to analyze sales performance across multiple dimensions, including time, geography, product categories, and sales channels.
 
 The goal of this project is to transform raw sales data into actionable business insights that support both strategic (executive-level) and operational (department-level) decision-making.
-
----
 
 ### 🎛️ Dashboard Features
 
@@ -88,13 +86,9 @@ Users can also:
   - Same period in previous year
   - Previous month or quarter within the same year
 
----
-
 ### 🧭 Navigation
 
 The dashboard is divided into multiple sections accessible via navigation tabs, enabling users to switch between different analytical perspectives.
-
----
 
 ### 📈 Main Dashboard (KPI Overview)
 
@@ -117,8 +111,6 @@ Each KPI can be explored individually with interactive filtering.
 
 Each visualization includes tooltips and contextual insights to support interpretation and decision-making.
 
----
-
 ### 📊 Category-Level Analysis
 
 This section enables deeper exploration by product category.
@@ -136,8 +128,6 @@ Users can:
 
 This view supports product-level optimization and category performance evaluation.
 
----
-
 ### 🌍 Regional Analysis
 
 The regional analysis section focuses on geographic performance differences.
@@ -153,9 +143,6 @@ The regional analysis section focuses on geographic performance differences.
 
 This section helps identify regional performance drivers and operational differences across markets.
 
-👉 [View Interactive Tableau Dashboard(https://public.tableau.com/app/profile/viktorija.zudmonaite/viz/Project2_17405171104110/CategoriesDashboard)
----
-
 ### 🛒 Online vs Offline Sales Analysis
 
 This section focuses on sales channel performance.
@@ -168,8 +155,6 @@ Users can:
 
 This analysis helps identify customer behavior differences and channel-specific performance patterns.
 
----
-
 ### 💡 Design Principle
 
 The dashboard is designed to support both:
@@ -179,8 +164,6 @@ The dashboard is designed to support both:
 
 It enables seamless transition from overview insights to deep analytical exploration, supporting data-driven decision-making across the organization.
 
----
-
 ### 🔗 Project Purpose
 
 This project demonstrates skills in:
@@ -189,6 +172,9 @@ This project demonstrates skills in:
 - KPI tracking and business performance analysis
 - Multi-dimensional sales analysis
 - Data storytelling for different stakeholder groups
+
+👉 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/viktorija.zudmonaite/viz/Project2_17405171104110/CategoriesDashboard)
+
 ---
 
 ## ⭐Presentations
