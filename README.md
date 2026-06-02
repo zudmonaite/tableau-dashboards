@@ -153,6 +153,7 @@ The regional analysis section focuses on geographic performance differences.
 
 This section helps identify regional performance drivers and operational differences across markets.
 
+👉 [View Interactive Tableau Dashboard(https://public.tableau.com/app/profile/viktorija.zudmonaite/viz/Project2_17405171104110/CategoriesDashboard)
 ---
 
 ### 🛒 Online vs Offline Sales Analysis
